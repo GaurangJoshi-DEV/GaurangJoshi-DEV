@@ -34,7 +34,7 @@ I believe that a developer’s toolkit is never complete—it keeps growing! Her
 I’m always excited to connect with like-minded developers and tech enthusiasts!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kartik2005b/" target="_blank">
+  <a href="https://www.linkedin.com/in/gaurangjoshi-dev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/kartik 2005b/" target="_blank">
